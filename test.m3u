@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
